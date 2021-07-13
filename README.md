@@ -11,7 +11,6 @@ Please see my Dropbox for downloaded results from the database (https://www.drop
 1. Download the desired .py files
 2. Run the .py files with Python 3
 3. Enjoy the newly created .csv file in the folder you ran #2
-4. Alternatively, you can double click the API Execute.bat file to execute the scripts if you have Python installed
 
 # Progress
 1. 2021-07-13: initial commit
