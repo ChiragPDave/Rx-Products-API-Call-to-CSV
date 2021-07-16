@@ -1,4 +1,4 @@
-# LNHPD-API-Call-to-CSV
+# Rx-API-Call-to-CSV
 Collection of Python scripts calling data from the Rx Products Database API and exporting it to CSV files.
 
 # Overview
